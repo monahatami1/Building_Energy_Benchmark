@@ -28,4 +28,4 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Seatlle Office of Sustainability & Environmentfor the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://data.seattle.gov/dataset/2016-Building-Energy-Benchmarking/2bpz-gwpy/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Seatlle Office of Sustainability & Environmentfor the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://data.seattle.gov/dataset/2015-Building-Energy-Benchmarking/h7rm-fz6m/data).  Otherwise, feel free to use the code here as you would like! 
